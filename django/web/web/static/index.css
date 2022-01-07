@@ -1,0 +1,75 @@
+
+.location1
+{
+    float:right;
+}
+.submit
+{
+    margin-left:35%;
+    margin-top:30px;
+    border:none;
+    background-color: blue;
+    border-radius: 10px;
+    color:white;
+}
+.submit:hover{
+    font-size:15px;
+}
+/* .main
+{
+    margin-top:10px;
+} */
+.car
+{
+    width:800px;
+    height:450px;
+    float:right; 
+    position:relative;
+    margin-top:-150px;
+}
+.car1
+{
+    width:800px;
+    height:450px;
+    float:right; 
+    position:relative;
+    margin-top:150px;
+}
+body{
+    background-image: url(bg.jpg);
+    background-position: center;
+  background-repeat: no-repeat; 
+  background-size: cover;
+}
+.frm
+{
+    background-color: white;
+    opacity:0.8;
+    padding:20px;
+    border-bottom-right-radius: 150px;
+}
+.heading
+{
+    padding:50px;
+}
+.predict
+{
+    margin-left:50px;
+}
+a{
+    text-decoration:none;
+}
+a:hover{
+    text-decoration:none;
+}
+.newprice1
+{
+    border:1px solid black;
+    padding:10px;
+    border-radius: 10px;
+    margin-top:35px;
+}
+.main1
+{
+    margin-top:50px;
+}
